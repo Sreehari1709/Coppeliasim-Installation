@@ -32,14 +32,15 @@ For this module, we'll be using CoppeliaSim. Follow these instructions to instal
 
 Open Terminal and navigate to the directory where this file was downloaded. Run the following command:
 
-***tar -xf CoppeliaSim_Edu_V4_2_0_Ubuntu18_04.tar.xz***
+```
+tar -xf CoppeliaSim_Edu_V4_2_0_Ubuntu18_04.tar.xz
+```
 
 This command will decompress and extract the CoppeliaSim software to the folder named CoppeliaSim_Edu_V4_2_0_Ubuntu18_04 in the same directory.
 
 Now type the below commands in sequence to launch CoppeliaSim.
 
-***cd CoppeliaSim_Edu_V4_2_0_Ubuntu18_04
-./coppeliaSim.sh***
+```cd CoppeliaSim_Edu_V4_2_0_Ubuntu18_04./coppeliaSim.sh```
 
 - Now you will be able see the window as shown in the image above
 
@@ -53,8 +54,6 @@ Now type the below commands in sequence to launch CoppeliaSim.
 
 ```
 cd /Applications/coppeliaSim.app
-
 sudo xattr -r -d com.apple.quarantine * 
 ```
 <hr>
-
