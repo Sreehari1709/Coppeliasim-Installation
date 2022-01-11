@@ -51,8 +51,10 @@ Now type the below commands in sequence to launch CoppeliaSim.
 ![Image 4](https://raw.githubusercontent.com/saurabhcosmos/milkyway/main/images/cop4.png)
 - Now open terminal and run following commands:
 
+```
 cd /Applications/coppeliaSim.app
 
 sudo xattr -r -d com.apple.quarantine * 
+```
 <hr>
 
