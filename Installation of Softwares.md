@@ -1,10 +1,12 @@
 
 # Build Your Own Autonomous Robot, Shaastra 2022
-
 ##  CoppeliaSim 4.2.0-Installation
 
 ![Image](https://www.coppeliarobotics.com/images/a.jpg)
  
+For this module, we'll be using CoppeliaSim. Follow these instructions to install them in your respective OS:
+
+### What is CoppeliaSim
 - The robot simulator CoppeliaSim is based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. This makes CoppeliaSim very versatile and ideal for multi-robot applications. Controllers can be written in C/C++, Python, Java, Lua, Matlab or Octave.
 
 - CoppeliaSim is used for fast algorithm development, factory automation simulations, fast prototyping and verification, robotics related education, remote monitoring, safety double-checking, as digital twin, and much more. You can find a features of CoppeliaSim [Over Here](https://www.coppeliarobotics.com/features).
@@ -54,6 +56,3 @@ cd /Applications/coppeliaSim.app
 sudo xattr -r -d com.apple.quarantine * 
 <hr>
 
-NB : Our module will be matlab specific and it will be demo session , so even if you don't have matlab setup in your system it won't be an issue
-
-<img src="https://ca22.shaastra.org/static/media/Shaastra_logo.fa85cd9f.png" alt="SHAASTRA 2022" width="200" height="150">
