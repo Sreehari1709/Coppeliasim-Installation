@@ -9,4 +9,6 @@ Hmm.. that story will be interesting right!.
 We welcome you to be module of **Build Your Own Autonomous Robot** module to know some glimpses of the vast field and get some taste of it....
 
 These are the Workshop Contents
-- [Installation Procedure]()
+- [Installation Procedure](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/Installation%20of%20Softwares.md)
+- [Slides used in the session]()
+- Code
