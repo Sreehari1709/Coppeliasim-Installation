@@ -57,3 +57,9 @@ cd /Applications/coppeliaSim.app
 sudo xattr -r -d com.apple.quarantine * 
 ```
 <hr>
+
+## Optional Softwares
+
+In the second Session, we'll be using MATLAB to visualise SLAM in our bot using the data from Lidar Sensor in CoppeliaSim. It is going to be a demo and participants can subscribe for Educational Version of MATLAB. For more details visit: [MATLAB for Students](https://in.mathworks.com/products/matlab/student.html). Note that it is completely optional to have MATLAB for the session.
+
+After installation of MATLAB, you have to install *Navigation Toolbox* from Add-Ons tab. 
