@@ -10,6 +10,6 @@ We welcome you to be module of **Build Your Own Autonomous Robot** module to kno
 
 These are the Workshop Contents
 - [Installation Procedure](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/Installation%20of%20Softwares.md)
-- [Slides used in the session]()
+- Slides used in the [Session-1](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/Buil%20Your%20Own%20Autonmous%20Robot%20_%20Session-%201.pdf) and [Session-2](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/Build%20Your%20Own%20Autonomous%20Robot%20_%20Session%20-%202.pdf)
 - The Manual bot [file](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/roomba_bot.ttt) and the explanations for the same can be seen in seperate files.
 - The Mapping Scene [file](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/Mapping_Shaastra.ttt) and [instructions](https://github.com/Sreehari1709/SHAASTRA-2022-Build-your-own-Autonomous-Robot/blob/master/Mapping_scene_instruction.md)
