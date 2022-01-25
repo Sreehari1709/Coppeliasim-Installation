@@ -1,0 +1,2 @@
+The file contains the scene file of manual bot we showed in the session along with the explanation for 'b' usined in the 
+code . The actaul usage of b is to increase the extend of angular velocity of rotation for a fixed radius.
